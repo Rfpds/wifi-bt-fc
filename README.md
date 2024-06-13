@@ -33,4 +33,4 @@ Este é um script de brute-force para testar senhas de uma rede Wi-Fi no Termux.
 
 ## Aviso
 
-Use este script apenas em redes Wi-Fi que você possui permissão para testar. Invadir redes sem permissão é ilegal e antiético.
+⚠️Use este script apenas em redes Wi-Fi que você possui permissão para testar. Invadir redes sem permissão é ilegal e antiético.
