@@ -8,13 +8,13 @@ Este é um script de brute-force para testar senhas de uma rede Wi-Fi no Termux.
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/Rfpds/wifi-brute-force.git
+    git clone https://github.com/Rfpds/wifi-bt-fc.git
     ```
 
 2. Entre no diretório clonado:
 
     ```sh
-    cd wifi-brute-force
+    cd wifi-bt-fc
     ```
 
 3. Dê permissão de execução ao script:
