@@ -1,6 +1,8 @@
 # wifi-bt-fc
 # Wi-Fi Brute Force
 
+'txt com 412 senhas'
+
 Este é um script de brute-force para testar senhas de uma rede Wi-Fi no Termux.
 
 ## Uso
